@@ -1,0 +1,4 @@
+#Wed Apr 17 23:02:37 NOVT 2024
+base.0=/home/kirill/Desktop/app_project/app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

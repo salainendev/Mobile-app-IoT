@@ -1,0 +1,4 @@
+#Wed Apr 17 21:34:13 NOVT 2024
+base.0=/home/kirill/Desktop/app_project/app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
